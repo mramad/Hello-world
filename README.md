@@ -3,6 +3,6 @@ First Project on GitHub
 Hello Community,
 
 
-This is the fist edit to my first Project!
+This is the first edit to my first Project!
 
 Thanks
